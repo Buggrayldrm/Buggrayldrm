@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buggrayldrm" alt="buggrayldrm" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,opencv,yolov7**
+- 🌱 I’m currently learning **Flutter, opencv, yolov7**
 
-- 💬 Ask me about **Python,Java,gRPC,Docker**
+- 💬 Ask me about **Python, Java, gRPC, Docker**
 
 - 📫 How to reach me **buggrayldrm@gmail.com**
 
