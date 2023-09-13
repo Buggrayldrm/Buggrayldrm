@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buggrayldrm" alt="buggrayldrm" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, Opencv**
+- 🌱 I’m currently learning **Java, Spring Boot**
 
 - 💬 Ask me about **Python, Java, Kotlin, Docker**
 
